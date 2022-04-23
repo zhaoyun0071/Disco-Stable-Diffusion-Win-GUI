@@ -35,3 +35,4 @@ pic_disco\progress.png，每几个step（频率可配置）更新一次图片。
 下面这些都是图片设置过大导致的爆显存，或者6GB以下的显卡：
 （1）	Unable to find a valid cuDNN algorithm to run convolution
 （2）	CUDA out of memory
+（3） 生成的图是黑色的，一般1660以下的老显卡可能有此现象，也就是可能无法正常使用
