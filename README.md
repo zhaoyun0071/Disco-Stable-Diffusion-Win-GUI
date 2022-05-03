@@ -9,7 +9,7 @@
 
 ## 安装
 ### 解压
-解压pic_disco.zip，生成pic_disco目录。
+解压pic_disco.zip，生成pic_disco目录，不要解压到C盘。
 ### 模型文件移动到指定目录
 网盘里的models文件夹移动到pic_disco目录中；
 vgg16-397923af.pth存到：C:\Users\Administrator\.cache\torch\hub\checkpoints 
