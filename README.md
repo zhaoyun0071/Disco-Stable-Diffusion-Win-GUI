@@ -19,6 +19,12 @@ vgg16-397923af.pth存到：C:\Users\Administrator\.cache\torch\hub\checkpoints
  ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/1.png)
 ## 软件配置
 
+拥有详细的界面化设置，仅针对静图。
+ ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/set1.png)
+  ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/set2.png)
+   ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/set3.png)
+    ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/set4.png)
+
 ### 输出图片目录
 pic_disco\images_out。
 
