@@ -4,8 +4,9 @@
 
 
 ## V2.0下载
-链接：https://pan.baidu.com/s/1yJN3F55DoeGb7NtxH1zGUA 
-提取码：y4a9
+链接：https://pan.baidu.com/s/1xOmJER8YnPMPECPQw4JU9w 
+提取码：f78y
+
 
 ## 安装
 ### 解压
