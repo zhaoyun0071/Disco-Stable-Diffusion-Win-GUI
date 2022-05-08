@@ -7,7 +7,8 @@
 链接：https://pan.baidu.com/s/1xOmJER8YnPMPECPQw4JU9w 
 提取码：f78y
 
-将网盘里的V2.1或V2.2或更新版本的exe文件拷贝到解压的主目录，运行就是最新版本了：
+将网盘里的V2.1或V2.2或更新版本的exe文件拷贝到解压的主目录，另外settings.json这个文件最好要拷贝到主目录覆盖原先文件，以免发生bug，运行对应版本exe就是最新版本了：
+
 
 
 ## V2.1版本：
