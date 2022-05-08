@@ -1,9 +1,9 @@
-# Disco-Diffusion-Local V2.6
+# Disco-Diffusion-Local V2.7
 
 基于 https://github.com/alembics/disco-diffusion  做了初步的界面（后续还会更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，A卡不支持。
 
 
-## V2.6下载
+## V2.7下载
 链接：https://pan.baidu.com/s/1xOmJER8YnPMPECPQw4JU9w 
 提取码：f78y
 
@@ -55,6 +55,13 @@
 
 6、修复少数电脑识别码改变导致重新激活的bug。
 
+## V2.7版本：
+
+1、加入检测更新功能，可以检测当前版本是否最新，调用的GitHub项目地址；
+
+2、cut_innercut、cut_overview、cut_icgray_p这三个参数加入输入格式错误防呆提示；
+
+3、gobig模式设置界面搭建好，但功能还没实现，有些坑要填( ╯□╰ )。
 
 ## 安装
 ### 解压
