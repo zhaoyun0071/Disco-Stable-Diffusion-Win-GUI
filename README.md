@@ -1,9 +1,9 @@
-# Disco-Diffusion-Local V2.7
+# Disco-Diffusion-Local V2.8
 
 基于 https://github.com/alembics/disco-diffusion  做了初步的界面（后续还会更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，A卡不支持。
 
 # 1、下载
-## V2.7下载
+## V2.8下载
 链接：https://pan.baidu.com/s/1xOmJER8YnPMPECPQw4JU9w 
 提取码：f78y
 
@@ -13,6 +13,19 @@
 
 
 # 2、更新记录
+
+## V2.8版本：
+
+1、修复cut_ic_pow参数设置小数保存崩溃的bug；
+
+2、修复skip_augs、randomize_class、clip_denoised、clamp_grad参数设置无法保存的bug；
+
+3、修复佩林噪声开启后，重启软件参数设置变灰的bug；
+
+4、加入推荐教程链接的按钮，为新人使用此软件带带路，在线文档链接逐步完善中；
+
+5、中途预览图片，比例按照实际图片比例显示。
+
 
 ## V2.7版本：
 
