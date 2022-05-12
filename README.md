@@ -1,6 +1,6 @@
 # Disco-Diffusion-Local V2.8
 
-基于 https://github.com/alembics/disco-diffusion  做了初步的界面（后续还会更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，A卡不支持。
+基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，A卡不支持。
 
 # 1、下载
 ## V2.8下载
