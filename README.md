@@ -19,6 +19,8 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 ## 后续更新将网盘里的V3.1或V3.2或更新版本的exe文件拷贝到解压的主目录，运行对应版本exe就是最新版本了。
 
+## V2.0 +用户过度到3.0用户注意，pic_disco.zip这个压缩包要重新下载最新的，因为架构有所改变，C盘用户文件夹下的vgg16-397923af.pth模型移动到models文件夹即可，models文件夹其他模型两个版本没有变化。
+
 ### 另外请注意：自己的C:\Users\User\AppData\Local\CrashDumps这个目录，有时候爆显存崩溃会遗留很大文件，删除即可，C:\Users\User\不同电脑不一样。
 
 
