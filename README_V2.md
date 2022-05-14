@@ -1,5 +1,5 @@
 
-Disco-Diffusion-Local V2.0 + | [Disco-Diffusion-Local V3.0 +](./README_V3.0.md)
+Disco-Diffusion-Local V2.0 + | [Disco-Diffusion-Local V3.0 +](./README.md)
 
 # Disco-Diffusion-Local V2.8
 
