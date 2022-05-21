@@ -40,7 +40,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 6、加入主界面几个按钮的帮助提示；
 
-7、更改软件图标，鸣谢图标设计者B站主页：https://space.bilibili.com/22936830/channel/series。
+7、更改软件图标，鸣谢图标设计者B站主页：https://space.bilibili.com/22936830/channel/series 。
 
 ## V3.0版本：2022-05-14
 
