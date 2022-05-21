@@ -1,13 +1,13 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.0
+# Disco-Diffusion-Local V3.1
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.0下载
+## V3.1下载
 
 ## 提供多种方式下载
 
@@ -17,7 +17,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 （3）谷歌网盘链接：https://drive.google.com/drive/folders/1mBtw3oz9rCsQflt5xzDw08Z9VRMDoB_T?usp=sharing
 
-## 后续更新将网盘里的V3.1或V3.2或更新版本的exe文件拷贝到解压的主目录，运行对应版本exe就是最新版本了。
+## 后续更新将网盘里的V3.1或V3.2或更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
 
 ## V2.0 +用户过度到3.0用户注意，pic_disco.zip这个压缩包要重新下载最新的，因为架构有所改变，C盘用户文件夹下的vgg16-397923af.pth模型移动到models文件夹即可，models文件夹其他模型两个版本没有变化。
 
@@ -25,6 +25,22 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
 # 2、更新记录
+
+## V3.1版本：2022-05-20
+
+1、加入开源AI超分辨率项目（https://github.com/xinntao/Real-ESRGAN）功能，此项目很优秀，可以对二次元、三次元图进行2~4倍高清放大，见主界面【AI高清放大】按钮，支持批量选择图片，在参数设置界面的【Real-ESRGAN画质增强】tab下可以设置放大倍数和模型选择；
+
+2、skip_steps最大不能超过steps-1，防止有部分小伙伴设置steps和skip_steps相同导致不画图；
+
+3、软件主界面的【生成】按钮改名为【开始AI作画】；
+
+4、n_batches默认由5改为2，这样一套参数默认画两张图了；
+
+5、默认图片尺寸由256×256修改为128×128；
+
+6、加入主界面几个按钮的帮助提示；
+
+7、更改软件图标，鸣谢图标设计者B站主页：https://space.bilibili.com/22936830/channel/series。
 
 ## V3.0版本：2022-05-14
 
