@@ -28,7 +28,8 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 ## V3.1版本：2022-05-20
 
-1、加入开源AI超分辨率项目（https://github.com/xinntao/Real-ESRGAN）功能，此项目很优秀，可以对二次元、三次元图进行2~4倍高清放大，见主界面【AI高清放大】按钮，支持批量选择图片，在参数设置界面的【Real-ESRGAN画质增强】tab下可以设置放大倍数和模型选择；
+1、加入开源AI超分辨率项目功能，此项目很优秀，可以对二次元、三次元图进行2~4倍高清放大，见主界面【AI高清放大】按钮，支持批量选择图片，在参数设置界面的【Real-ESRGAN画质增强】tab下可以设置放大倍数和模型选择；
+调用项目：https://github.com/xinntao/Real-ESRGAN
 
 2、skip_steps最大不能超过steps-1，防止有部分小伙伴设置steps和skip_steps相同导致不画图；
 
