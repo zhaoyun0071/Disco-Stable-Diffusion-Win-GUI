@@ -28,7 +28,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 ## V3.2版本：2022-05-27
 
-1、新增队列模式，也就是批量参数画图模式，此功能可以实设置诸如不同描述词，进行批量绘制，详情参见视频：；
+1、新增队列模式，也就是批量参数画图模式，此功能可以实设置诸如不同描述词，进行批量绘制，详情参见视频：https://www.bilibili.com/video/bv1ZZ4y1t7wW ；
 
 2、eta默认值由0.5改为0.8，和官方保持一致；
 
