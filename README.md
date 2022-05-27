@@ -1,13 +1,13 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.1
+# Disco-Diffusion-Local V3.2
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.1下载
+## V3.2下载
 
 ## 提供多种方式下载
 
@@ -25,6 +25,23 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
 # 2、更新记录
+
+## V3.2版本：2022-05-27
+
+1、新增队列模式，也就是批量参数画图模式，此功能可以实设置诸如不同描述词，进行批量绘制，详情参见视频：；
+
+2、eta默认值由0.5改为0.8，和官方保持一致；
+
+3、参数设置界面的参考图设置、图像质量设置都加入到基本设置里，更方便高效设置；
+
+4、参数设置界面整体配色更加护眼；
+
+5、文字描述默认改为：a beautiful painting of winter, trending on artstation；
+
+6、绘制图片轮数n_batches改为1；每轮中间保存数改为1；
+
+7、增设项目名称，默认TimeToDisco，也就是原来图片的都会在软件目录【images_out/TimeToDisco】文件夹下，现在比如设置项目名称为【我的项目】，则图片都会保存软件目录【images_out/我的项目】文件夹下。
+
 
 ## V3.1版本：2022-05-20
 
