@@ -7,8 +7,11 @@ Disco-Diffusion-Local V2.0 + | [Disco-Diffusion-Local V3.0 +](./README.md)
 
 # 1、下载
 ## V2.8下载
-链接：https://pan.baidu.com/s/1xOmJER8YnPMPECPQw4JU9w 
-提取码：f78y
+停止更新，请下载3.0+版本[Disco-Diffusion-Local V3.0 +](./README.md)
+
+
+
+
 
 将网盘里的V2.1或V2.2或更新版本的exe文件拷贝到解压的主目录，另外settings.json这个文件最好要拷贝到主目录覆盖原先文件，以免发生bug，运行对应版本exe就是最新版本了：
 
