@@ -79,7 +79,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 4、简化V2.0版本的安装要求，将移动到C盘用户文件夹下的vgg16-397923af.pth模型，也归属到models文件夹，现在安装就很简单了，两部操作：解压到pic_disco文件夹；models文件夹移动到pic_disco文件夹即可完成安装。
 
 
-# 3、安装
+# 3、安装（视频教程1分钟后开始：https://www.bilibili.com/video/BV1aU4y197tW/）
 ## 解压
 解压pic_disco.zip，生成pic_disco目录，不要解压到C盘。
 ## 模型文件移动到指定目录
