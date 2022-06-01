@@ -26,7 +26,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 2、更新记录
 
-## V3.3版本：2022-06-01
+## V3.3版本：2022-06-01  V3.3视频说明：https://www.bilibili.com/video/BV1aU4y197tW/
 
 1、新增图片转3D模式，基于 https://github.com/vt-vl-lab/3d-photo-inpainting 项目，实现图片批量转换成3D效果的视频，支持jpg、png格式图片，图片转3D比较慢，耐心等待转换过程；
 
