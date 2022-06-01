@@ -1,13 +1,13 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.2
+# Disco-Diffusion-Local V3.3
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.2下载
+## V3.3下载
 
 ## 提供多种方式下载
 
@@ -25,6 +25,14 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
 # 2、更新记录
+
+## V3.3版本：2022-06-01
+
+1、新增图片转3D模式，基于 https://github.com/vt-vl-lab/3d-photo-inpainting 项目，实现图片批量转换成3D效果的视频，支持jpg、png格式图片，图片转3D比较慢，耐心等待转换过程；
+
+2、新增中译英翻译，文字描述旁边的中译英按钮即可实现；
+
+3、加入关于软件界面，更加显得正式，哈哈。
 
 ## V3.2版本：2022-05-27
 
