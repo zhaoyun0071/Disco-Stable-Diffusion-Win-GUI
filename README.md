@@ -1,13 +1,13 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.3
+# Disco-Diffusion-Local V3.4
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.3下载
+## V3.4下载
 
 ## 提供多种方式下载
 
@@ -25,6 +25,19 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
 # 2、更新记录
+
+## V3.4版本：2022-06-12  
+1、图片转3D支持时长和摄像机位移设置，原图尺寸输出视频，清晰度更高；
+
+2、AI高清放大，实测6G显存1920×1080的图用x4模型放大4倍也不会超显存了，因为可以设置tile_size（拼图大小）参数；
+
+3、加入目前挺火的像素PIXEL DD绘画模式https://github.com/KaliYuga-ai/Pixel-Art-Diffusion ，这个模型占用显存不大，小显存诸如6G能上1200×600，参数设置里提供两种绘图Diffusion模型引擎选择，原版DD和像素版DD；
+
+4、参数设置界面记忆上次拉伸界面，不同分辨率显示器不用每次都拉伸界面了；
+
+5、加入use_secondary_model这个选项，如果关闭此选项，DD将使用常规（大型）扩散模型，开启此选项则使用二级模型更快且显存占用小–一位用户报告渲染速度提高了50%！然而，二次模型要小得多，可能会降低图像质量和细节；
+
+6、加入clamp_max参数设置，clamp_max设置clamp grad的上限，数值范围0-0.3。默认0.05在图像中提供更平滑、更柔和的着色，但设置更高的值（0.15-0.3）可以提供有趣的对比度和活力。
 
 ## V3.3版本：2022-06-01  V3.3视频说明：https://www.bilibili.com/video/BV1aU4y197tW/
 
