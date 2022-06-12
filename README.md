@@ -26,7 +26,8 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 2、更新记录
 
-## V3.4版本：2022-06-12  
+## V3.4版本：2022-06-12  ，V3.4视频说明：https://www.bilibili.com/video/BV1Ut4y1H7yL
+
 1、图片转3D支持时长和摄像机位移设置，原图尺寸输出视频，清晰度更高；
 
 2、AI高清放大，实测6G显存1920×1080的图用x4模型放大4倍也不会超显存了，因为可以设置tile_size（拼图大小）参数；
