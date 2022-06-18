@@ -1,13 +1,13 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.4
+# Disco-Diffusion-Local V3.5
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.4下载
+## V3.5下载
 
 ## 提供多种方式下载
 
@@ -17,14 +17,21 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 （3）谷歌网盘链接：https://drive.google.com/drive/folders/1mBtw3oz9rCsQflt5xzDw08Z9VRMDoB_T?usp=sharing
 
-## 后续更新将网盘里的V3.1或V3.2或更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
+## 后续更新将网盘里的V3.6或更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
 
-## V2.0 +用户过度到3.0用户注意，pic_disco.zip这个压缩包要重新下载最新的，因为架构有所改变，C盘用户文件夹下的vgg16-397923af.pth模型移动到models文件夹即可，models文件夹其他模型两个版本没有变化。
 
 ### 另外请注意：自己的C:\Users\User\AppData\Local\CrashDumps这个目录，有时候爆显存崩溃会遗留很大文件，删除即可，C:\Users\User\不同电脑不一样。
 
 
 # 2、更新记录
+
+## V3.5版本：2022-06-18  
+
+1、添加Disco Diffusion V5.3的对称功能，可以在参数设置里设置水平和垂直对称；
+
+2、修复AI图片高清放大功能放大中文路径图片无法保存的问题；
+
+3、网盘里删减无用的包，现在软件体积整体变小了，且模型库分为必装的模型包和可选的模型包，可选模型包仅在需要的时候下载即可。
 
 ## V3.4版本：2022-06-12  ，V3.4视频说明：https://www.bilibili.com/video/BV1Ut4y1H7yL
 
