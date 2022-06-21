@@ -7,7 +7,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 1、下载
 
-## V3.5下载
+## V3.5下载 V3.5视频说明：[https://www.bilibili.com/video/BV1Ut4y1H7yL](https://www.bilibili.com/video/BV1Vr4y1g7TT/)
 
 ## 提供多种方式下载
 
@@ -25,7 +25,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 2、更新记录
 
-## V3.5版本：2022-06-18  
+## V3.5版本：2022-06-18  V3.5视频说明：[https://www.bilibili.com/video/BV1Ut4y1H7yL](https://www.bilibili.com/video/BV1Vr4y1g7TT/)
 
 1、添加Disco Diffusion V5.3的对称功能，可以在参数设置里设置水平和垂直对称；
 
