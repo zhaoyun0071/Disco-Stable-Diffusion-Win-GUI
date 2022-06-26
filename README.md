@@ -1,13 +1,13 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.5
+# Disco-Diffusion-Local V3.6
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.5下载 V3.5视频说明：[https://www.bilibili.com/video/BV1Ut4y1H7yL](https://www.bilibili.com/video/BV1Vr4y1g7TT/)
+## V3.6下载 
 
 ## 提供多种方式下载
 
@@ -24,6 +24,12 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
 # 2、更新记录
+
+## V3.6版本：2022-06-26  
+
+1、加入快捷描述功能，点击文字描述旁边的快捷描述按钮，即可添加各种画家、风格、景物、形容词、艺术网站等，可以手动通过软件目录的csv文件自行添加说明，目前画家的说明没有整理完；
+
+2、主界面下方加入打开图片输出目录按钮，以及缓存崩溃文件CrashDumps目录按钮，点击查看崩溃文件，手动删除即可。
 
 ## V3.5版本：2022-06-18  V3.5视频说明：[https://www.bilibili.com/video/BV1Ut4y1H7yL](https://www.bilibili.com/video/BV1Vr4y1g7TT/)
 
