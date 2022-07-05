@@ -1,13 +1,13 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.6
+# Disco-Diffusion-Local V3.7
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.6下载 
+## V3.7下载 
 
 ## 提供多种方式下载
 
@@ -24,6 +24,16 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
 # 2、更新记录
+
+## V3.7版本：2022-07-04 
+
+1、加入rudalle项目的图片风格仿造功能，点击主界面图片风格仿造按钮，选择一张图，即可输出4张风格类似的四张图，此功能要求至少10GB显存；
+
+2、加入基于TAADNE项目的二次元人像和全身半身生成功能，点击主界面二次元小姐姐按钮，即可生成各种不同类型的二次元，参数设置里可进行参数设置，以生成不同类型；
+
+3、修复快捷描述，部分用户打开失败的bug；
+
+4、加入3D视频输出目录的按钮。
 
 ## V3.6版本：2022-06-26  
 
