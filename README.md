@@ -7,7 +7,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 1、下载
 
-## V3.7下载 
+## V3.7下载  视频介绍：https://www.bilibili.com/video/BV1za411X7BC 
 
 ## 提供多种方式下载
 
@@ -17,7 +17,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 （3）谷歌网盘链接：https://drive.google.com/drive/folders/1mBtw3oz9rCsQflt5xzDw08Z9VRMDoB_T?usp=sharing
 
-## 后续更新将网盘里的V3.6或更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
+## 后续更新将网盘里的V3.8或更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
 
 
 ### 另外请注意：自己的C:\Users\User\AppData\Local\CrashDumps这个目录，有时候爆显存崩溃会遗留很大文件，删除即可，C:\Users\User\不同电脑不一样。
