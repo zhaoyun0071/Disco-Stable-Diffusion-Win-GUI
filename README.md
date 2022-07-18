@@ -1,13 +1,13 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.7
+# Disco-Diffusion-Local V3.8
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.7下载  视频介绍：https://www.bilibili.com/video/BV1za411X7BC 
+## V3.8下载  视频介绍：https://www.bilibili.com/video/BV1za411X7BC 
 
 ## 提供多种方式下载
 
@@ -17,13 +17,29 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 （3）谷歌网盘链接：https://drive.google.com/drive/folders/1mBtw3oz9rCsQflt5xzDw08Z9VRMDoB_T?usp=sharing
 
-## 后续更新将网盘里的V3.8或更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
+## 后续更新将网盘里的V3.9或更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
 
 
 ### 另外请注意：自己的C:\Users\User\AppData\Local\CrashDumps这个目录，有时候爆显存崩溃会遗留很大文件，删除即可，C:\Users\User\不同电脑不一样。
 
 
 # 2、更新记录
+
+## V3.8版本：2022-07-18 
+
+1、加入自定义的几种模型：人像模型、科幻模型、国画模型，使用这几种模型后，画出的风格倾向于模型对应的风格；
+
+2、加入自己训练扩散模型的功能，这样上面的自定义模型，你也可以自己训练，6GB显存就能训练出国画模型；  
+
+3、加入AI写小说功能，这个功能比较简单，输入开头，即可续写；
+
+4、图片风格仿造功能，支持仿造图片数量设置，此功能10GB显存以下目前直接不让用了，因为跑不动；  
+
+5、二次元小姐姐生成功能轮播模式，支持设置轮播时长；
+
+6、删除参数设置里的go_big模式，此模式一直没做占空，现在测试作用不大；
+
+7、其他bug修复。
 
 ## V3.7版本：2022-07-04 
 
