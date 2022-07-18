@@ -7,7 +7,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 1、下载
 
-## V3.8下载  视频介绍：https://www.bilibili.com/video/BV1za411X7BC 
+## V3.8下载  视频介绍：暂无 
 
 ## 提供多种方式下载
 
