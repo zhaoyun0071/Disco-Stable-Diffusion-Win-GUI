@@ -7,7 +7,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 1、下载
 
-## V3.8下载  视频介绍：暂无 
+## V3.8下载  视频介绍：[Disco Diffusion AI作画离线版V3.8，人像、国画都能画，还能自己训练绘画模型，小说也能写！](https://www.bilibili.com/video/BV1Ca411S71s)
 
 ## 提供多种方式下载
 
