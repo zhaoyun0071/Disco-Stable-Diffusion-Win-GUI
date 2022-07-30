@@ -1,13 +1,13 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.8
+# Disco-Diffusion-Local V3.9
 
-基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐6GB以上独显，30系列、20系列N卡最佳，AMD显卡不支持。
+基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐5GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.8下载  视频介绍：[Disco Diffusion AI作画离线版V3.8，人像、国画都能画，还能自己训练绘画模型，小说也能写！](https://www.bilibili.com/video/BV1Ca411S71s)
+## V3.9下载  
 
 ## 提供多种方式下载
 
@@ -17,13 +17,29 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 （3）谷歌网盘链接：https://drive.google.com/drive/folders/1mBtw3oz9rCsQflt5xzDw08Z9VRMDoB_T?usp=sharing
 
-## 后续更新将网盘里的V3.9或更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
+## 后续更新将网盘里的增量更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
 
-
-### 另外请注意：自己的C:\Users\User\AppData\Local\CrashDumps这个目录，有时候爆显存崩溃会遗留很大文件，删除即可，C:\Users\User\不同电脑不一样。
 
 
 # 2、更新记录
+
+## V3.9版本：2022-07-30
+
+1、修复json文件损坏，打开参数设置崩溃的bug；
+
+2、软件目录的【描述风格库】是后续快捷描述的调用库，都是csv文件，各位可以自己按照模板csv文件格式创建自己的模板库，软件自动调用；
+
+3、添加随机描述批量模式，在队列模式下，文字描述格式输入by {400|1|艺术家}，代表从【描述风格库】文件夹得艺术家.csv文件里调用单个艺术家，生成400个设置文件，也就是同样描述下仅艺术家不一样，400个艺术家的描述，具体还得看B站视频介绍；
+
+4、队列模式下，可以多选参考图，生成多个setting文件，也就是同样的参数，不同的参考图；
+
+5、扩散模型训练支持选择多少步停止训练、支持基于模型基础上继续训练；
+
+6、修复某些扩散模型加载报错的问题；
+
+7、加入三次元真人全身生成，和原先的二次元参数设置基本一致；
+
+8、加入AI作画提前终止功能，注意当绘制5步以上时，才可以点击终止按钮。
 
 ## V3.8版本：2022-07-18 
 
