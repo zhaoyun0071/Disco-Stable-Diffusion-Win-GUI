@@ -22,6 +22,11 @@ Disco-Diffusion-Local V3.0 | [Disco-Diffusion-Local V2.0 +](./README.md)
 ### 另外请注意：自己的C:\Users\User\AppData\Local\CrashDumps这个目录，有时候爆显存崩溃会遗留很大文件，删除即可，C:\Users\User\不同电脑不一样。
 
 
+# 联系我解决问题
+
+ ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/contact.png)
+
+
 # 2、更新记录
 
 ## V3.0版本：2022-05-14
@@ -111,6 +116,3 @@ pic_disco\progress.png，每几个step（频率可配置）更新一次图片。
   ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/3.jpg)
 
 
-# 7、联系我
-
- ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/扫码_搜索联合传播样式-标准色版.png)
