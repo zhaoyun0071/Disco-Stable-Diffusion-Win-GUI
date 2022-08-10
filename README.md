@@ -20,6 +20,9 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 ## 后续更新将网盘里的增量更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
 
 
+# 联系我解决问题
+
+ ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/contact.png)
 
 # 2、更新记录
 
@@ -226,7 +229,3 @@ pic_disco\progress.png，每几个step（频率可配置）更新一次图片。
 
   ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/3.jpg)
 
-
-# 7、联系我
-
- ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/扫码_搜索联合传播样式-标准色版.png)
