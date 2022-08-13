@@ -1,7 +1,7 @@
-Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
+Disco-Diffusion-Windows-x64 V3.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.10
+# Disco-Diffusion-Windows-x64 V3.10
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐3GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
@@ -22,7 +22,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 联系我解决问题
 
- ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/contact.png)
+ ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Windows-x64/blob/main/contact.png)
 
 # 2、更新记录
 
