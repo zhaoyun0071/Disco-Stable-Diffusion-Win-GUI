@@ -7,7 +7,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 1、下载
 
-## V3.9下载  
+## V3.10下载  
 
 ## 提供多种方式下载
 
@@ -25,6 +25,16 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
  ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/contact.png)
 
 # 2、更新记录
+
+V3.10版本：2022-08-13
+
+1、支持导入AI作画配置文件，也就是images_out文件夹下的json配置文件，注意必须是DD5_V3.10生成的图片配置文件才能导入，之前的json文件不支持；
+
+2、支持导入AI作画配置文件，支持生成的图片参数导入注意必须是DD5_V3.10生成的图片才能导入，之前的图片文件不支持，此选项可以参数设置里关掉；
+
+3、加入小说训练模型，导入txt格式的小说集，选择参数即可训练，也是看loss数值降到比较低的模型才是好模型；
+
+4、修改界面上一些文字显示歧义或者错误。
 
 ## V3.9版本：2022-07-30
 
