@@ -1,9 +1,9 @@
 Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Local V3.9
+# Disco-Diffusion-Local V3.10
 
-基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐5GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
+基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐3GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
