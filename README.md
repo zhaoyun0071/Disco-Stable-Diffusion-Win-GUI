@@ -26,7 +26,7 @@ Disco-Diffusion-Local V3.0 + | [Disco-Diffusion-Local V2.0 +](./README_V2.md)
 
 # 2、更新记录
 
-V3.10版本：2022-08-13
+## V3.10版本：2022-08-13
 
 1、支持导入AI作画配置文件，也就是images_out文件夹下的json配置文件，注意必须是DD5_V3.10生成的图片配置文件才能导入，之前的json文件不支持；
 
