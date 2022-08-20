@@ -1,13 +1,13 @@
 Disco-Diffusion-Windows-x64 V3.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Windows-x64 V3.10
+# Disco-Diffusion-Windows-x64 V3.11
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐3GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.10下载  
+## V3.11下载  
 
 ## 提供多种方式下载
 
@@ -25,6 +25,15 @@ Disco-Diffusion-Windows-x64 V3.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./READ
  ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Windows-x64/blob/main/contact.png)
 
 # 2、更新记录
+
+## V3.11版本：2022-08-20
+
+1、参数设置下方，【AI图片描述解析】按钮，支持选择图片，AI解析描述，当然描述会有偏差，但效果还是不错的，可以适当润色；目前测试【AI图片描述解析】功能仅占用4-5G显存左右；
+
+2、加入AI高清人脸老照片修复功能，点击【AI老照片修复】选择图片即可修复，高清修复仅修复人脸，可配合AI高清放大功能使用，支持批量选择图片；
+
+3、配置文件导入支持colab在线版DD生成的配置文件，注意后缀修改为json格式才行，后续将支持更多其他在线配置文件。
+
 
 ## V3.10版本：2022-08-13
 
