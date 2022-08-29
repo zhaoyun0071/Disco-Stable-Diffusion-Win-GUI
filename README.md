@@ -1,13 +1,13 @@
-Disco-Diffusion-Windows-x64 V3.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
+Disco-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Windows-x64 V3.11
+# Disco-Diffusion-Windows-x64 V4.0
 
 基于 https://github.com/alembics/disco-diffusion  pyside2做了界面（持续更新），Windows 系统电脑可以，推荐3GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V3.11下载  
+## V4.0下载  
 
 ## 提供多种方式下载
 
@@ -25,6 +25,13 @@ Disco-Diffusion-Windows-x64 V3.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./READ
  ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Windows-x64/blob/main/contact.png)
 
 # 2、更新记录
+
+## V4.0版本：2022-08-29
+
+1、加入Stable Diffusion作画模型，主界面点击【SD作画】按钮即可Stable Diffusion作画，参数设置里是SD作画设置，支持和DD作画一样的队列模式等功能；
+
+2、加入人声伴奏分离功能，导入歌曲，即可分离人声、伴奏、鼓点等，支持批量选择音频。
+
 
 ## V3.11版本：2022-08-20
 
