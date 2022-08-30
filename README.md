@@ -1,7 +1,7 @@
-Disco-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
+Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-Windows-x64 V4.0
+# Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0
 
 基于 https://github.com/alembics/disco-diffusion  和 https://github.com/CompVis/stable-diffusion ，用pyside2做了界面（持续更新），Windows 系统电脑可以，推荐3GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
