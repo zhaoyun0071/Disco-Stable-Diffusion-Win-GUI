@@ -1,13 +1,13 @@
 Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0
+# Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.1
 
 基于 https://github.com/alembics/disco-diffusion  和 https://github.com/CompVis/stable-diffusion ，用pyside2做了界面（持续更新），Windows 系统电脑可以，推荐3GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V4.0下载  
+## V4.1下载  
 
 ## 提供多种方式下载
 
@@ -17,7 +17,9 @@ Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windo
 
 （3）谷歌网盘链接：https://drive.google.com/drive/folders/1mBtw3oz9rCsQflt5xzDw08Z9VRMDoB_T?usp=sharing
 
-## 后续更新将网盘里的增量更新版本的zip文件解压到主目录，运行对应版本exe就是最新版本了。
+## 老用户（3.7到4.0版本）升级到4.1的升级包链接：https://pan.baidu.com/s/1EZrBRB2NsDEdVV_VKvAftA?pwd=c5vt  
+提取码：c5vt 
+
 
 
 # 联系我解决问题
@@ -25,6 +27,35 @@ Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windo
  ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Windows-x64/blob/main/contact.png)
 
 # 2、更新记录
+
+## V4.1版本：2022-10-12
+
+1、Stable Diffusion（下面简称SD）作画功能支持2D动画功能（支持参考图模式，选择参考图，即可以参考图引导动画帧生成；支持三轴移动、缩放、角度调整等）、参考视频功能，动画模式2D输入描述支持帧数设置，如下换行描述（三个冒号后面跟着帧序号）： 
+a:::10 
+b:::20 
+c:::30 
+代表，a描述有10帧，b描述20帧。。。。
+
+2、加入Dream Booth模型训练功能，CPU和显卡两种方式都可以，显卡目前24G显存可以，CPU训练内存32G以上估计就可以；鼠标悬停训练参数旁边的问号有参数解释；训练完成后会自动在模型目录对11GB大小的模型进行裁剪到2GB大小；支持DB断点模型选择；模型名字显示步数；
+
+3、SD作画增加局部修改功能，点击局部修改按钮，对图片继续涂鸦，即可局部修改，不过此功能效果有些图片有限；
+
+4、SD文字描述支持负描述，所谓负描述就是不想让画面出现的元素；
+
+5、SD支持调用第三方的ckpt格式的SD模型，SD参数设置下方选择自定义模型按钮即可；
+
+6、SD支持图片仿造功能，不过需要至少16G显存，SD参数设置最下方，选择待仿造图片，无需描述，即可生成类似风格图片；
+
+7、SD作画16代显卡黑图问题修复，SD设置里勾选16代即可；
+
+8、伴奏人声分离4G显卡可以用了，伴奏人声分离设置勾选低显存占用模式即可；
+
+9、加入音视频转文字功能，批量选择音视频，即可生成srt字幕文件和纯文字txt版文件，支持大量国外语言；
+
+10、修复图片转3D找不到图片的报错问题；
+
+11、修复图片高清放大、老照片修复，DD或SD作画写到图片的配置丢失问题。
+
 
 ## V4.0版本：2022-08-29
 
@@ -229,8 +260,6 @@ pic_disco\progress.png，每几个step（频率可配置）更新一次图片。
 
 （2）	CUDA out of memory
 
-
-（3） 生成的图是黑色的，目前发现的1060、1660、1660ti都有问题，原因是中途生成NAN数据，解决方案正在寻找。
 
 
 
