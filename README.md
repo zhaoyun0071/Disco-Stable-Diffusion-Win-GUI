@@ -1,13 +1,13 @@
 Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.1
+# Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.2
 
 基于 https://github.com/alembics/disco-diffusion  和 https://github.com/CompVis/stable-diffusion ，用pyside2做了界面（持续更新），Windows 系统电脑可以，推荐3GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V4.1下载  
+## V4.2下载  
 
 ## 提供多种方式下载
 
@@ -17,7 +17,7 @@ Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windo
 
 （3）谷歌网盘链接：https://drive.google.com/drive/folders/1mBtw3oz9rCsQflt5xzDw08Z9VRMDoB_T?usp=sharing
 
-## 老用户（3.7到4.0版本）升级到4.1的升级包链接：https://pan.baidu.com/s/1EZrBRB2NsDEdVV_VKvAftA?pwd=c5vt  
+## 老用户（3.7到4.1版本）升级到4.2的升级包链接：https://pan.baidu.com/s/1EZrBRB2NsDEdVV_VKvAftA?pwd=c5vt  
 提取码：c5vt 
 
 
@@ -27,6 +27,41 @@ Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windo
  ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Windows-x64/blob/main/contact.png)
 
 # 2、更新记录
+
+
+## V4.2版本：2022-11-11
+
+1、加入DeepDanbooru解析功能，参数设置下方点击对应按钮，导入图片即可解析背后的TAG，对于SD作画诸如NovelAI等模型有些用处；
+
+2、加入SD自动写描述功能，随便写个开头，描述框右边AI写描述按钮即可续写描述；
+
+3、图片上色功能支持黑白二次元图上色；
+
+4、SD作画支持进度显示和预览图，在参数设置里设置预览频次即可，目前仅在描述转图模式下生效；
+
+5、SD作画显存占用模式非常低改为超级低，现在的非常低相比超级低多用1G显存，提速将近1倍；
+
+6、SD作画参考图支持自适应宽高比选项，比如参考图尺寸宽高为1024×512，绘图参数尺寸设置512×512，默认无，代表不自适应，最终出的图尺寸为512×512；固定宽代表，以绘图参数尺寸设置的宽512为准，参考图宽高比2比1，高自动修改为256，最终输出512×256的图；
+
+7、AI高清放大现在支持2-10倍放大设置了；
+
+8、DD作画支持设置多张显卡用户的单卡使用序号，比如想要用第二张显卡，序号设置为1即可；
+
+9、快捷描述现在不是替换了，而是可以基于原来的描述插入；
+
+10、新增图片或者视频上色功能，点击主界面图片/视频上色按钮，批量选择图片或者视频即可进行上色操作；
+
+11、鉴黄模型在官方模型基础上加入另一个模型，两个模型共存投票（全票通过）进行最终结果判别，不好的图直接黑图了；
+
+12、SD动画、参考视频支持负描述，修复参考视频差异度参数、种子无效的bug；
+
+13、DD和SD参考图作画保存的文件名字包含参考图名字；
+
+14、谷歌的prompt2prompt占坑，SD参数设置勾选文字编辑模式即可跑修改描述关键词更改画面风格功能，目前做的很简陋，基本先占坑；
+
+15、SD模型融合支持，可选择两个ckpt格式的SD模型进行按比例融合，融合后的ckpt格式模型，可在SD设置里调用；
+
+16、老照片修复功能还同时输出高清修复的纯人脸图片和原来的人脸照片。
 
 ## V4.1版本：2022-10-12
 
