@@ -1,13 +1,13 @@
-Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
+Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V5.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.2
+# Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V5.0
 
-基于 https://github.com/alembics/disco-diffusion  和 https://github.com/CompVis/stable-diffusion ，用pyside2做了界面（持续更新），Windows 系统电脑可以，推荐3GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
+基于 https://github.com/alembics/disco-diffusion  和 https://github.com/CompVis/stable-diffusion ，用pyside2做了界面（持续更新），Windows 系统电脑可以，推荐2GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V4.2下载  
+## V5.0下载  
 
 ## 提供多种方式下载
 
@@ -17,9 +17,6 @@ Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windo
 
 （3）谷歌网盘链接：https://drive.google.com/drive/folders/1mBtw3oz9rCsQflt5xzDw08Z9VRMDoB_T?usp=sharing
 
-## 老用户（3.7到4.1版本）升级到4.2的升级包链接：https://pan.baidu.com/s/1EZrBRB2NsDEdVV_VKvAftA?pwd=c5vt  
-提取码：c5vt 
-
 
 
 # 联系我解决问题
@@ -27,6 +24,32 @@ Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V4.0 + | [Disco-Diffusion-Windo
  ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Windows-x64/blob/main/contact.png)
 
 # 2、更新记录
+
+## V5.0版本：2023-2-4
+
+1、SD作画加入xformers加速模块（仅Windows10、Windows 11可用加速），显存占用模式选项可选择+xformers，提速至少50%，显存占用也小很多；
+
+2、SD作画加入DPM++等多种采样器，DPM采样器10-20步效果很好；
+
+3、SD作画支持SD2.0、2.1模型加载，但目前仅做了文字转图片功能； 
+
+4、SD作画支持VAE模型导入； 
+
+5、SD作画支持safetensors格式模型；
+
+6、SD作画新增另一种AI写描述，称为AI写描述2；
+
+7、参数设置导入配置按钮，支持在黑窗显示所有带有图片meta信息的图片内容；
+
+8、加入图片仿照说话视频功能，最终实现人像静图说话的功能，主界面点击【图片说话】按钮选择图片即可； 
+
+9、音视频转文字种的大模型更新到2代，扩展到100多种语言； 
+
+10、删除俄罗斯图片风格仿造和SD的风格仿造功能，因为现在的SD参考图仿图效果明显效果更好；
+
+11、软件主界面标题显示显存、CPU、内存等信息；
+
+12、主界面设置的大小会记住，参数设置界面选择会记住上次设置的tab。
 
 
 ## V4.2版本：2022-11-11
