@@ -1,13 +1,13 @@
 Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V5.0 + | [Disco-Diffusion-Windows-x64 V2.0 +](./README_V2.md)
 
 
-# Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V5.0
+# Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V5.1
 
 基于 https://github.com/alembics/disco-diffusion  和 https://github.com/CompVis/stable-diffusion ，用pyside2做了界面（持续更新），Windows 系统电脑可以，推荐2GB以上独显，30系列、20系列、10系列N卡最佳，AMD显卡不支持。
 
 # 1、下载
 
-## V5.0下载  
+## V5.1下载  
 
 ## 提供多种方式下载
 
@@ -24,6 +24,33 @@ Disco-Diffusion-And-Stable-Diffusion-Windows-x64 V5.0 + | [Disco-Diffusion-Windo
  ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Windows-x64/blob/main/contact.png)
 
 # 2、更新记录
+
+## V5.1版本：2023-5-20
+
+1、支持ControlNet 1.1作画、腾讯T2I-Adapter作画两种作画功能；  
+
+2、支持LORA（包括Lycoris类的lora模型）、众多VAE类模型加载；  
+
+3、所有作画功能支持参考图选择视频参考，自动逐帧参考，自动生成视频；
+
+4、音视频转文字的最大模型后端改为faster_whisper，速度提升4倍，显存占用3-5G左右（int8和fp16模式），且不会出现繁体中文了；  
+
+5、加入清华大学的类chatgpt项目chatglm，6G显存就能用；   
+
+6、加入rembg抠图和SAM抠图（facebook的seg anything）功能；   
+
+7、图片说话加入音频驱动功能（包括维持原图，不仅仅是人脸视频了），图片说话参数设置里设置即可；
+
+8、支持视频补帧，最高16倍补帧； 
+
+9、图片高清放大支持半精度模型，显存占用减小一倍，且支持高清放大视频了；
+
+10、图片转3D支持选择几个模式输出以及视频码率设置；   
+
+11、主界面众多功能菜单化、作画参数设置界面分离化，参数分类不拥挤；  
+
+12、软件报错后不需要重开软件了，按钮仍可以点击。
+
 
 ## V5.0版本：2023-2-4
 
